@@ -1,0 +1,106 @@
+# Copyright (C) 2014 Wordfence Security - Live Traffic Admin Widget
+# This file is distributed under the same license as the Wordfence Security - Live Traffic Admin Widget package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Wordfence Security - Live Traffic Admin Widget 1.0.1\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/wordfence-security-live-"
+"traffic-admin-widget\n"
+"POT-Creation-Date: 2014-04-01 03:36:13+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: includes/widget-menu.php:1
+msgid "Scan"
+msgstr ""
+
+#: includes/widget-menu.php:3
+msgid "Disable Live Traffic"
+msgstr ""
+
+#: includes/widget-menu.php:3
+msgid "Disable"
+msgstr ""
+
+#: includes/widget-menu.php:5
+msgid "Enable Live Traffic"
+msgstr ""
+
+#: includes/widget-menu.php:5
+msgid "Enable"
+msgstr ""
+
+#: includes/widget-menu.php:8
+msgid "About"
+msgstr ""
+
+#: includes/widget-menu.php:9
+msgid "Options"
+msgstr ""
+
+#: includes/widget-menu.php:10
+msgid "Blocked IPs"
+msgstr ""
+
+#: includes/widget-menu.php:15
+msgid "close"
+msgstr ""
+
+#: includes/widget-menu.php:16
+msgid "About Wordfence Security - Live Traffic Admin Widget"
+msgstr ""
+
+#: includes/widget-menu.php:17
+msgid "I hope you are enjoying this extension!"
+msgstr ""
+
+#: includes/widget-menu.php:18
+msgid ""
+"For more info on this and my other plugins, you can visit my %swebsite%s"
+msgstr ""
+
+#: includes/widget-menu.php:20
+msgid ""
+"You can submit any support questions regarding this extension to the "
+"dedicated %sSupport Forum%s"
+msgstr ""
+
+#: includes/widget-menu.php:22
+msgid ""
+"Please take a moment to support this extension by %srating/reviewing%s and "
+"spreading the word on your blog."
+msgstr ""
+
+#: wordfence-security-live-traffic-admin-widget.php:44
+msgid ""
+"You must install and activate %sWordfence%s to use the Wordfence Live "
+"Traffic Admin Widget extension. For more information on this plugin you can "
+"visit the dedicated %sSupport Forum%s"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Wordfence Security - Live Traffic Admin Widget"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid ""
+"http://wordpress.org/plugins/wordfence-security-live-traffic-admin-widget/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Monitor your sites live traffic on the Main Dashboard page in form of a "
+"widget. This is a Wordfence extension and does require Wordfence to be "
+"installed in order to run."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Zoran C."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://zoranc.co/"
+msgstr ""
